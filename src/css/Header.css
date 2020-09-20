@@ -1,0 +1,35 @@
+.Header{
+  margin: 0;
+  padding: 0;
+  width: 200%;
+  float: left;
+}
+
+.Logo{
+  animation: onRelease 0.2s ease-in-out 0s 1 normal forwards;
+}
+.Logo:hover{
+  animation: onHover 0.2s ease-in-out 0s 1 normal forwards;
+  transition: scale(0.5);
+}
+.Logo:active{
+  animation-play-state: paused;
+}
+
+@keyframes onHover {
+  0% {
+    filter: invert(0);
+  }
+  100% {
+    filter: invert(0.3);
+  }
+}
+
+@keyframes onRelease {
+  0% {
+    filter: invert(0.3);
+  }
+  100% {
+    filter: invert(0);
+  }
+}
