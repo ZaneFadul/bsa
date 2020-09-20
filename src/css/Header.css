@@ -1,6 +1,7 @@
 .Header{
-  background-color: black;
+  /*background-color: black;*/
   position: absolute;
+  display: inline;
   margin: 0;
   padding: 0;
   top: 5%;
