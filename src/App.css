@@ -14,6 +14,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   font-family: 'Myriad Pro';
+  overflow-x: hidden;
 }
 
 .App-logo {
