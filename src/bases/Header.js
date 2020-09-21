@@ -11,11 +11,25 @@ class Header extends Component{
         style={{
           color: `${Colors.black}`,
         }}>
-        <Link to="/about">About</Link>
-        <Link to="/events">Events</Link>
-        <Link to="/"><BSALogo className="Logo"/></Link>
-        <Link to="/resources">Resources</Link>
-        <Link to="/blog">Blog</Link>
+        <div className="NavButton">
+          <Link to="/about" id="Navlink">about</Link>
+        </div>
+        <div className="NavButton">
+          <Link to="/events" id="Navlink">events</Link>
+        </div>
+        
+        <div className="LogoButton">
+          <Link to="/" id="Navlink"><BSALogo className="Logo" /></Link>
+        </div>
+
+        <div className="NavButton">
+          <Link to="/resources" id="Navlink">resources</Link>
+        </div>
+        
+        <div className="NavButton">
+        < Link to="/blog" id="Navlink">blog</Link>
+        </div>
+        
       </div>
     );
   }
