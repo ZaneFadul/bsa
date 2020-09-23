@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
-import Colors from '../constants/Colors';
 
-class Body extends Component {
+class Footer extends Component {
   render() {
     return (
-      <div className="Body">
+      <div className="Footer">
         {this.props.content}
       </div>
     );
   }
 }
 
-export default Body;
+export default Footer;

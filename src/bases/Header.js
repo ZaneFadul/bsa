@@ -20,7 +20,7 @@ class Header extends Component{
         
         <div className="LogoButton">
           <Link to="/" id="Navlink"><BSALogo className="Logo" /></Link>
-        </div>
+      </div>
 
         <div className="NavButton">
           <Link to="/resources" id="Navlink">resources</Link>

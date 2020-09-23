@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Myriad Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/MYRIADPRO-REGULAR.woff');
+}
+
+.Body {
+  border-color: blue;
+  border-radius: 5px;
+}

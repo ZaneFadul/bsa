@@ -14,8 +14,9 @@
   width: 100%;
   height: 20%;
   float: left;
-  display: block;
+  /*display: block;*/
   overflow: hidden;
+  vertical-align: middle;
   -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
      -khtml-user-select: none; /* Konqueror HTML */
@@ -25,7 +26,7 @@
 }
 
 .NavButton {
-  padding: 20px;
+  padding: 1vw;
   display: inline;
 }
 
@@ -52,6 +53,9 @@
 }
 
 .Logo{
+  margin: auto;
+  position: inline-block;
+  width: 20vh;
   animation: onRelease 0.1s ease-in-out 0s 1 normal forwards;
 }
 .Logo:hover{
@@ -64,21 +68,17 @@
 @keyframes onHover {
   0% {
     filter: invert(0);
-    width: 10%;
   }
   100% {
     filter: invert(0.3);
-    width: 9.7%;
   }
 }
 
 @keyframes onRelease {
   0% {
     filter: invert(0.3);
-    width: 9.7%;
   }
   100% {
     filter: invert(0);
-    width: 10%;
   }
 }
