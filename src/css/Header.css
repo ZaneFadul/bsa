@@ -10,11 +10,14 @@
   position: absolute;
   margin: 0;
   padding: 0;
+  left:0.5%;
   top: 5%;
-  width: 100%;
-  height: 20%;
+  width: 99.5%;
+  height: auto;
   float: left;
-  /*display: block;*/
+  align-content: center;
+  align-items: center;
+  align-self: center;
   overflow: hidden;
   vertical-align: middle;
   -webkit-touch-callout: none; /* iOS Safari */
@@ -28,6 +31,12 @@
 .NavButton {
   padding: 1vw;
   display: inline;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+     -moz-user-select: none; /* Old versions of Firefox */
+      -ms-user-select: none; /* Internet Explorer/Edge */
+          user-select: none;
 }
 
 #Navlink{
@@ -46,6 +55,12 @@
 
 #Navlink:hover{
   text-decoration: underline;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+     -moz-user-select: none; /* Old versions of Firefox */
+      -ms-user-select: none; /* Internet Explorer/Edge */
+          user-select: none;
 }
 
 .LogoButton{
@@ -53,10 +68,9 @@
 }
 
 .Logo{
-  margin: auto;
-  position: inline-block;
-  width: 20vh;
+  width: 40vh;
   animation: onRelease 0.1s ease-in-out 0s 1 normal forwards;
+  
 }
 .Logo:hover{
   animation: onHover 0.1s ease-in-out 0s 1 normal forwards;

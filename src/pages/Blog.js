@@ -4,7 +4,7 @@ class Blog extends Component {
 
   render(){return (
     <div>
-      <h>This is the blog section</h>
+      <h>This is the BLOGGG section</h>
     </div>
   )};
 }
