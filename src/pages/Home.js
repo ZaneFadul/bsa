@@ -5,14 +5,201 @@ class Home extends Component {
   render() {
     return (
     <div>
-        <h>This is the splash page.</h>
-        <h>This is the splash page.</h>
-        <h>This is the splash page.</h>
-        <h>This is the splash page.</h>
-        <h>This is the splash page.</h>
-        <h>This is the splash page.</h>
-        <h>This is the splash page.</h>
-        <h>This is the splash page.</h>
+        <p>AAAAAAAAAAAAAA
+         ???A
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+        
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................
+          
+          A
+          ?AD?
+          ASD?
+          ?A
+          ?AAAAAA...........................</p>
         
     </div>
   )};

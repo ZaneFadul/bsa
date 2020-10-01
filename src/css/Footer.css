@@ -1,13 +1,6 @@
-@font-face {
-  font-family: 'Myriad Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/MYRIADPRO-REGULAR.woff');
-}
-
 .Footer {
-  width: 100%;
-  height: 50px;
+  margin: 0px;
+  padding: 2rem;
   display: inline-block;
   position: relative;
   align-items: center;

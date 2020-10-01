@@ -11,7 +11,8 @@ class Footer extends Component {
         <a href="https://www.facebook.com"><FBIcon className="icon"/></a>
         <a href="https://www.instagram.com"><IGIcon className="icon"/></a>
         <a href="https://discord.com"><DiscIcon className="icon" /></a>
-      </div>
+        
+        </div>
     );
   }
 }
