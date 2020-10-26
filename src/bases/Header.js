@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Colors from '../constants/Colors';
-import {ReactComponent as BSALogo} from '../constants/logo.svg';
+import {ReactComponent as BSALogo} from '../constants/main-logo.svg';
 import '../css/Header.css';
 
 class Header extends Component{
