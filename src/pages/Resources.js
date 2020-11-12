@@ -4,7 +4,7 @@ class Resources extends Component {
 
   render(){return (
     <div>
-      <h>This is the Resources section</h>
+      <h>Resources section under construction.</h>
     </div>
   )};
 }

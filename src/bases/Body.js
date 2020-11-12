@@ -7,6 +7,7 @@ import Resources from '../pages/Resources';
 import Blog from '../pages/Blog';
 import Colors from '../constants/Colors';
 import '../css/Body.css';
+
 class Body extends Component{
   render() {
     return( 
