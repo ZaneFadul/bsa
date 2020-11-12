@@ -2,25 +2,25 @@
   "isaac":{
     "name":"Isaac Schlager",
     "title":"Treasurer, Co-Founder",
-    "imagePath":"../constants/images/isaac.png",
+    "imagePath":"src/constants/images/isaac.jpg",
     "bio":"Isaac Schlager is a senior from Lancaster, Pennsylvania studying Political Science and Chinese. He is an advocate for social justice issues and education on campus, previously working with NYUSH Diversity Initiatives’ LEAD program and is part of the MUN club. In his freetime, Isaac enjoys going out dancing (particularly Afro-beats and Bachata) as well as beating Chris at Naruto Shippuden: Ultimate Ninja Storm 3."
   },
   "chris":{
     "name":"Chris Johnson",
     "title":"Vice President, Co-Founder",
-    "imagePath":"../constants/images/chris.png",
+    "imagePath":"src/constants/images/chris.png",
     "bio":"Chris Johnson, also known as Blvck Sheep, is a 21 year old rapper and entrepreneur from Philadelphia, Pennsylvania. He is currently a senior at New York University Shanghai where he is pursuing a degree in Interactive Media and Business. As the CO-CEO of Lethal Mobb Entertainment Chris plays an active role in managing operations in Shanghai. As the vice-president of the BSA, Chris plays a pivotal role in creating a safe space for Black voices and uplifting members of the community."
   },
   "chelseam":{
     "name":"Chelsea McClean",
     "title":"President, Co-Founder",
-    "imagePath":"../constants/images/chelsea_m.png",
+    "imagePath":"src/constants/images/chelsea_m.png",
     "bio":"Chelsea McLean is a Junior from Plainsboro, New Jersey. She is majoring in Business and Marketing and minoring in Chinese. She has worked on the Events Committee under Student Government for two years and currently holds a position as a Diversity Advocate under Diversity Initiatives. She loves to listen to rap and R&B music. When she's not napping on the second floor couches you can find her playing ping pong in B1."
   },
   "chelseap":{
     "name":"Chelsea Polanco",
     "title":"Secretary, Co-Founder",
-    "imagePath":"../constants/images/chelsea_p.png",
+    "imagePath":"src/constants/images/chelsea_p.png",
     "bio":"Chelsea Polanco is a senior studying Computer Science at NYU Shanghai. Originally from New York City, she settled in Florida before moving to Shanghai for school. In addition to creating the Women Empowered in STEM club (WeSTEM), she has worked as an Ally Week Ambassador and a Peer Advisor. Outside of her involvement with organizations focusing on diversity, she enjoys spending her time playing video games like Super Mario 64."
   }
 }
