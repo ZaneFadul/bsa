@@ -2,7 +2,7 @@
   "isaac":{
     "name":"Isaac Schlager",
     "title":"Treasurer, Co-Founder",
-    "imagePath":"src/contants/images/isaac.jpg",
+    "imagePath":"../constants/images/isaac.png",
     "bio":"Isaac Schlager is a senior from Lancaster, Pennsylvania studying Political Science and Chinese. He is an advocate for social justice issues and education on campus, previously working with NYUSH Diversity Initiatives’ LEAD program and is part of the MUN club. In his freetime, Isaac enjoys going out dancing (particularly Afro-beats and Bachata) as well as beating Chris at Naruto Shippuden: Ultimate Ninja Storm 3."
   },
   "chris":{
@@ -14,7 +14,7 @@
   "chelseam":{
     "name":"Chelsea McLean",
     "title":"President, Co-Founder",
-    "imagePath":"src/constants/images/chelsea_m.png",
+    "imagePath":"popo.png",
     "bio":"Chelsea McLean is a Junior from Plainsboro, New Jersey. She is majoring in Business and Marketing and minoring in Chinese. She has worked on the Events Committee under Student Government for two years and currently holds a position as a Diversity Advocate under Diversity Initiatives. She loves to listen to rap and R&B music. When she's not napping on the second floor couches you can find her playing ping pong in B1."
   },
   "chelseap":{
