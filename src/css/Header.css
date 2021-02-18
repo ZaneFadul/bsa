@@ -24,9 +24,16 @@
             user-select: none;
 }
 
-@media (max-width : 960px){
+@media (max-width : 600px){
   .Header{
     align-items: center;
+  }
+  .LogoButton{
+    max-width: 30px;
+    height: auto;
+  }
+  .Logo{
+    max-width:140px;
   }
 }
 
