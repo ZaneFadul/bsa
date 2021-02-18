@@ -8,7 +8,9 @@ import chelseap_img from '../constants/images/chelsea_p.png';
 import isaac_img from '../constants/images/isaac.png';
 
 class About extends Component {
-
+  componentDidMount() {
+    this.props.handleRouteMet('About');
+  }
   render() {
     return (
       <div>

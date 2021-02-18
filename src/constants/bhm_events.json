@@ -1,0 +1,33 @@
+{"bhm_events": [
+  {
+    "name": "Black History Month Trivia and Mixer",
+    "date": "",
+    "link": "https://us02web.zoom.us/meeting/register/tZcrdOCspjkiHNduq6P0WD4eXs4bUzwvDc1I",
+    "imagePath": "/bhm_event_images/1.png"
+  },
+  {
+    "name": "Exploring Black Haircare",
+    "date": "", 
+    "link": "https://us02web.zoom.us/meeting/register/tZYsfuutqTIvHdcbVrv0A6uzjS5j9iCNkTN_",
+    "imagePath":  "/bhm_event_images/2.png"
+  },
+  {
+    "name": "\"Blackfishing\": A Concept and A Reality",
+    "date": "",
+    "link": "https://us02web.zoom.us/meeting/register/tZEkduGuqD4qHdOvlUNd9uq2qPGEJowSMFON",
+    "imagePath": "/bhm_event_images/3.png"
+  }, 
+  {
+    "name": "Guided Meditation Through Trials and Tribulations",
+    "date": "",
+    "link": "https://us02web.zoom.us/meeting/register/tZYodOCprDMjGtelOC8k-93eNe74xRUI475h",
+    "imagePath": "/bhm_event_images/4.png"
+  },
+  {
+    "name": "An Evening of Jazz",
+    "date": "",
+    "link": "",
+    "imagePath": "/bhm_event_images/5.png"
+  }
+]
+}

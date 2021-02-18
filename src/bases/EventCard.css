@@ -1,0 +1,14 @@
+.event-card{
+  max-width: 50%;
+  height: auto;
+  transition: width 2s;
+}
+
+.event-image{
+  max-width: inherit;
+  height: inherit;
+}
+
+.event-card:hover{
+  width: 55%;
+}

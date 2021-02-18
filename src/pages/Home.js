@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 
 class Home extends Component {
-
+  componentDidMount() {
+    this.props.handleRouteMet('Home');
+  }
   render() {
     return (
     <div>
