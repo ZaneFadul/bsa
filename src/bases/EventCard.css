@@ -36,7 +36,7 @@
 .event-image{
   max-width: 20%;
   height: auto;
-  padding: 2em;
+  padding: 2em 0 0 0;
   animation: fade-in 0.1s linear 0s 1 normal forwards;
 }
 
