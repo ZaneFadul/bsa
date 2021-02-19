@@ -1,30 +1,35 @@
 {"bhm_events": [
   {
     "name": "Black History Month Trivia and Mixer",
+    "desc": "Play trivia, meet new friends, and learn more about Black history",
     "date": "",
     "link": "https://us02web.zoom.us/meeting/register/tZcrdOCspjkiHNduq6P0WD4eXs4bUzwvDc1I",
     "imagePath": "/bhm_event_images/1.png"
   },
   {
     "name": "Exploring Black Haircare",
+    "desc": "Hair is an important part of the Black experience. Join us as we delve into the deeper concepts that surround it.",
     "date": "", 
     "link": "https://us02web.zoom.us/meeting/register/tZYsfuutqTIvHdcbVrv0A6uzjS5j9iCNkTN_",
     "imagePath":  "/bhm_event_images/2.png"
   },
   {
     "name": "\"Blackfishing\": A Concept and A Reality",
+    "desc": "Blackfishing: the practice of altering one's appearance on social media to appear Black or mixed race",
     "date": "",
     "link": "https://us02web.zoom.us/meeting/register/tZEkduGuqD4qHdOvlUNd9uq2qPGEJowSMFON",
     "imagePath": "/bhm_event_images/3.png"
   }, 
   {
     "name": "Guided Meditation Through Trials and Tribulations",
+    "desc": "Relax & recharge with a meditation session facilitated by Health & Wellness",
     "date": "",
     "link": "https://us02web.zoom.us/meeting/register/tZYodOCprDMjGtelOC8k-93eNe74xRUI475h",
     "imagePath": "/bhm_event_images/4.png"
   },
   {
     "name": "An Evening of Jazz",
+    "desc": "A soothing evening that celebrates Black artists",
     "date": "",
     "link": "",
     "imagePath": "/bhm_event_images/5.png"

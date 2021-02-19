@@ -28,31 +28,24 @@ class Body extends Component{
     if (this.state.page === 'Events') this.props.changeStyleTo(Colors['bhm']);
     else this.props.changeStyleTo(Colors['main']);
 
-    const style = this.props.style;
-
     return( 
-      <div className="content-body" style={{
-        backgroundColor: `${style.bodyBackground}`,
-        color: `${style.bodyText}`
-    }}>
       <Switch> 
           <Route exact path="/">
-            <Home handleRouteMet={this.handleRouteMet} />
+          <Home {...this.props} handleRouteMet={this.handleRouteMet} />
             </Route>
           <Route exact path="/about">
-            <About handleRouteMet={this.handleRouteMet} />
+            <About {...this.props} handleRouteMet={this.handleRouteMet} />
             </Route>
           <Route exact path="/events">
-              <Events handleRouteMet={this.handleRouteMet} />
+              <Events {...this.props} handleRouteMet={this.handleRouteMet} />
             </Route>
           <Route exact path="/resources">
-            <Resources handleRouteMet={this.handleRouteMet} />
+            <Resources {...this.props} handleRouteMet={this.handleRouteMet} />
             </Route>
           <Route exact path="/blog">
-            <Blog handleRouteMet={this.handleRouteMet} />
+            <Blog {...this.props} handleRouteMet={this.handleRouteMet} />
             </Route>
       </Switch>
-    </div>
     )
   };
 }

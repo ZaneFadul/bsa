@@ -1,14 +1,73 @@
 .event-card{
-  max-width: 50%;
+  margin: auto;
+  max-width: 8em;
   height: auto;
-  transition: width 2s;
+  padding: 0 1em 0 1em;
+}
+
+#card-image{
+  max-width: inherit;
+  height: inherit;
+  transition: max-width 0.2s;
+}
+
+#card-image:hover{
+  padding:auto;
+  max-width: 8.5em;
+
+}
+
+
+.event-modal{
+  width: 40em;
+  height: auto;
+  border-radius :15px;
+
+  display: inline-flexbox;
+  vertical-align: auto;
+  animation: fade-in 0.1s linear 0s 1 normal forwards;
+  align-items: center;
+}
+
+.event-desc{
+  margin: 0 2em 2em 2em;
 }
 
 .event-image{
-  max-width: inherit;
-  height: inherit;
+  max-width: 20%;
+  height: auto;
+  padding: 2em;
+  animation: fade-in 0.1s linear 0s 1 normal forwards;
 }
 
-.event-card:hover{
-  width: 55%;
+.overlay{
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: auto;
+  position: fixed;
+  background-color: rgba(0,0,0,0);
+  animation: into-overlay 0.2s ease-in-out 0s 1 normal forwards;
+}
+
+@keyframes into-overlay{
+  0%{
+    background-color: rgba(0,0,0,0);
+  }
+  100%{
+    background-color: rgba(0,0,0,0.9);
+  }
+}
+
+@keyframes fade-in {
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
