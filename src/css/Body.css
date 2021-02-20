@@ -44,7 +44,7 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 370px) {
   .content-body{
     width: 370px;
   }
